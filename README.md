@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Sidratul but I'm better known on the internet as **DNAMcKnight** but you can call me McKnight. 
 
+I am a dog lover 🐶, I enjoy a good views and I would climb a mountain for it and I love tea. What else, I used to be good at video games (*not anymore*😭) but I do enjoy spending time with good friends. 
+
+- 🔭 I’m currently working on [Cloudflare Warp GUI](https://github.com/DNAMcKnight/CloudflareWarpGUI)
+- 
+- 🌱 I’m currently learning Javascript, Django and minecraft Plugin development.
+
+- 📫 How to reach me: Discord [DNAMcKnight#4318](https://discord.com/users/310517079642079234)
+
+- ⚡ Fun fact: I have no idea what I'm doing and I just go with the flow.
 <!--
 **DNAMcKnight/DNAMcKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
