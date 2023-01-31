@@ -14,12 +14,9 @@ I am a dog lover 🐶, I enjoy a good views and I would climb a mountain for it 
 
 ![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical)
 
-
-[![DNAMcKnight's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DNAMcKnight)](https://github.com/dnamcknight)
-
-<!-- <p align = "center">
+<p>
   <img src="https://wakatime.com/share/@DNAMcKnight/2e0799bd-f180-4e51-ae66-8362b2f0b707.svg", height="400"/>
-</p> -->
+</p>
 
 [![CloudflareWarpGUI](https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd/project/862a461a-4cb7-45b6-bbad-fa88e1d84a88.svg)](https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd/project/862a461a-4cb7-45b6-bbad-fa88e1d84a88)
 [![KnightBot](https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd/project/c96e7aa6-78f7-4d88-a829-128f6e8d172f.svg)](https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd/project/c96e7aa6-78f7-4d88-a829-128f6e8d172f)
