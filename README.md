@@ -12,7 +12,8 @@ I am a dog lover 🐶, I enjoy a good views and I would climb a mountain for it 
 - ⚡ Fun fact: I have no idea what I'm doing and I just go with the flow.
 <!--
 **DNAMcKnight/DNAMcKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical)
+[![DNAMcKnight's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DNAMcKnight)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
