@@ -3,9 +3,9 @@ My name is Sidratul but I'm better known on the internet as **DNAMcKnight** but 
 
 I am a dog lover 🐶, I enjoy a good views and I would climb a mountain for it and I love tea. What else, I used to be good at video games (*not anymore*😭) but I do enjoy spending time with good friends. 
 
-- 🔭 I’m currently working on [Cloudflare Warp GUI](https://github.com/DNAMcKnight/CloudflareWarpGUI)
+- 🔭 I’m currently working on finishing my python projects like this one [Cloudflare Warp GUI](https://github.com/DNAMcKnight/CloudflareWarpGUI)
 
-- 🌱 I’m currently learning Javascript, Django and minecraft Plugin development.
+- 🌱 I’m currently learning a bunch of things, sometimes anywhere from bash to `C, Javasacript or python` and other times from `ardunos, ESP or raspberry pi`.
 
 - 📫 How to reach me: Discord [DNAMcKnight#4318](https://discord.com/users/310517079642079234)
 
