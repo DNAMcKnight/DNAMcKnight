@@ -1,7 +1,15 @@
 ### Hi there 👋 
 My name is Sidratul but I'm better known on the internet as **DNAMcKnight** but you can call me McKnight. 
 
-I am a dog lover 🐶, I enjoy a good views and I would climb a mountain for it and I love tea. What else, I used to be good at video games (*not anymore*😭) but I do enjoy spending time with good friends. 
+I am a dog 🐶 person but cats 🐱 are okay too in my book. I am a night owl 🦉 who prefers to code late at night, I like to be presistant and try my best to bring my ideas to life although often times it might not end in my favor. 
+
+A truth I live by is that failure isn't a bad thing, had I not learnt from them I wouldn't be where I am today. Life isn't just about working hard, a great deal of it is about luck as well 🍀 so I'm doing my part and trying my hardest to get better each day.
+
+I am an introverted gamer, although I do sometimes go outside and touch grass. 
+
+I like electronics, I enjoy getting the old soldering iron out and making something or fixing something every now and then. There's something very satisfying about making something by hand.
+
+---
 
 - 🔭 I’m currently working on my python projects like this one [Cloudflare Warp GUI](https://github.com/DNAMcKnight/CloudflareWarpGUI)
 
