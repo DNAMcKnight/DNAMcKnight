@@ -25,6 +25,10 @@ I like electronics, I enjoy getting the old soldering iron out and making someth
 <p>
   <img src="https://wakatime.com/share/@DNAMcKnight/2e0799bd-f180-4e51-ae66-8362b2f0b707.svg", height="400"/>
 </p>
+
+Total time coded since Jan 5 2023
+
+<a href="https://wakatime.com/@fb640bef-8826-45d4-89a9-dc6e12cf9ebd"><img src="https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd.svg" alt="Total time coded since Jan 5 2023" /></a>
 <!--
 **DNAMcKnight/DNAMcKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
