@@ -29,6 +29,9 @@ I like electronics, I enjoy getting the old soldering iron out and making someth
 Total time coded since Jan 5 2023
 
 <a href="https://wakatime.com/@fb640bef-8826-45d4-89a9-dc6e12cf9ebd"><img src="https://wakatime.com/badge/user/fb640bef-8826-45d4-89a9-dc6e12cf9ebd.svg" alt="Total time coded since Jan 5 2023" /></a>
+
+<summary><b>Profile View Counter</b></summary>
+<img src="https://komarev.com/ghpvc/?username=DNAMcKnight" />
 <!--
 **DNAMcKnight/DNAMcKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
