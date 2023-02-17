@@ -20,7 +20,9 @@ I like electronics, I enjoy getting the old soldering iron out and making someth
 - ⚡ Fun fact: I have no idea what I'm doing and I just go with the flow.
 
 
-![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical)
+![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dnamcknight&theme=dark&hide_border=false)<br/>
 
 <p>
   <img src="https://wakatime.com/share/@DNAMcKnight/2e0799bd-f180-4e51-ae66-8362b2f0b707.svg", height="400"/>
