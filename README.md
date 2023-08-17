@@ -9,7 +9,7 @@ I like 🐶 but 🐱 are okay too in my book. I am a night owl 🦉 who prefers 
 *   ⚡  Fun fact: I have no idea what I'm doing and I just go with the flow.
 
 
-![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![McKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnamcknight&show_icons=true&theme=radical&include_all_commits=true&count_private=true,prs)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnamcknight&theme=dark&hide_border=false)<br/>
 
