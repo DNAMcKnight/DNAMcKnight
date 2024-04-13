@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sidratul Muntaha
 =======================================================================================================================================
-## Hello! Just a quick update, I'm not inactive. I got a new job and they sue BitBucket so most of my pushes on Github are coming from side projects which are usually on weekends or not at all. I hope you have a nice day!
+## Hello! Just a quick update, I'm not inactive. I got a new job and they use BitBucket so most of my pushes on Github are coming from side projects which are usually on weekends or not at all. I hope you have a nice day!
 
 I like 🐶 but 🐱 are okay too in my book. I am a night owl 🦉 who prefers to code late at night, I like to be presistant and try my best to bring my ideas to life although often times it might not end in my favor. A truth I live by is that failure isn't a bad thing, had I not learnt from them I wouldn't be where I am today. Life isn't just about working hard, a great deal of it is about luck as well 🍀 so I'm doing my part and trying my hardest to get better each day. I am an introverted gamer, although I do sometimes go outside and touch grass. I like electronics, I enjoy getting the old soldering iron out and making something or fixing something every now and then. There's something very satisfying about making something by hand.
 
